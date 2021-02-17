@@ -1,0 +1,44 @@
+    [
+        {
+            "name": "Sony TV-675",
+            "imageLink": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/14.jpg",
+            "description": "Lorem, ipsum dolor sit ametdolor  dolor sit amet sit amet consectetur adipisicing elit. Id fugit",
+            "inStockAmount": "100",
+            "price": "5755"
+        },
+        {
+            "name": "Samsung CT-567",
+            "imageLink": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/13.jpg",
+            "description": "Lorem, ipsum dolor sit ametdolor  dolor sit amet sit amet consectetur adipisicing elit. Id fugit",
+            "inStockAmount": "100",
+            "price": "3770"
+        },
+        {
+            "name": "Dell V-964i",
+            "imageLink": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/12.jpg",
+            "description": "Lorem, ipsum dolor sit ametdolor  dolor sit amet sit amet consectetur adipisicing elit. Id fugit",
+            "inStockAmount": "100",
+            "price": "4599"
+        },
+        {
+            "name": "Huewei G40",
+            "imageLink": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/11.jpg",
+            "description": "Lorem, ipsum dolor sit ametdolor  dolor sit amet sit amet consectetur adipisicing elit. Id fugit",
+            "inStockAmount": "100",
+            "price": "8998"
+        },
+        {
+            "name": "Philips Headphones",
+            "imageLink": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/10.jpg",
+            "description": "Lorem, ipsum dolor sit ametdolor  dolor sit amet sit amet consectetur adipisicing elit. Id fugit",
+            "inStockAmount": "100",
+            "price": "1200"
+        },
+        {
+            "name": "CANON EOS 80D",
+            "imageLink": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/9.jpg",
+            "description": "Lorem, ipsum dolor sit ametdolor  dolor sit amet sit amet consectetur adipisicing elit. Id fugit",
+            "inStockAmount": "100",
+            "price": "12477"
+        }
+    ]
